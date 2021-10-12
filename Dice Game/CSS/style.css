@@ -30,3 +30,8 @@ p {
   text-align: center;
   display: inline-block;
 }
+
+.btn-roll {
+  width: 15%;
+  font-size: 2rem;
+}
